@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">InstantWeather</string>
+    <string name="action_exit">Exit</string>
+    <string name="home_title_txt">YOUR CURRENT LOCATION INFORMATION</string>
+    <string name="info_txt">Get instant weather information updates with one button click.</string>
+    <string name="lat_txt">Lattitude:</string>
+    <string name="txt_lon">Longitude:</string>
+    <string name="btn_view_weather_txt">VIEW WEATHER INFO</string>
+    <string name="exit_btn_txt">EXIT</string>
+    <string name="title_activity_weather_info">WeatherInfoActivity</string>
+    <string name="weather_info_title">TODAY\'S WEATHER DETAILS</string>
+    <string name="city_txt">Location:</string>
+    <string name="txt_temp">Temperature</string>
+    <string name="txt_max_temp">Maximum Temp</string>
+    <string name="txt_min_temp">Minimum Temp</string>
+    <string name="txtv_humidity_txt">Humidity</string>
+    <string name="weather_icon_image_description">weather icon</string>
+</resources>
